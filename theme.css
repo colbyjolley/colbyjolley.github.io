@@ -54,6 +54,9 @@ header {
 p {
 	text-align: center;
 }
-ul {
-	display: inline;
+ul > li {
+    display: inline-block;
+    zoom:1;
+    *display:inline; /* this fix is needed for IE7- */
+}
 }
