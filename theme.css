@@ -56,5 +56,5 @@ p {
 }
 ul > li {
     display: inline-block;
-    text-align: center;
+    align: center;
 }
