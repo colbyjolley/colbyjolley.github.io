@@ -55,6 +55,6 @@ p {
 	text-align: center;
 }
 ul,li {
-    text-align: center;
     display: inline-block;
+    margin-left:50px;
 }
