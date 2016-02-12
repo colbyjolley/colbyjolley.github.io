@@ -54,7 +54,7 @@ header {
 p {
 	text-align: center;
 }
-ul > li {
-    display: inline-block;
+ul {
     align: center;
+}
 }
