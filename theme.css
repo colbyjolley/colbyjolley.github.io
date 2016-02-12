@@ -51,6 +51,7 @@ header {
 	text-align: center;
 	font-size: 100px;
 	color: red;
+	border-color: black;
 }
 p {
 	text-align: center;
