@@ -57,5 +57,5 @@ p {
 ul,li {
     display: inline-block;
     margin-left: 50;
-    text-align: center;
+    margin-right: 50;
 }
